@@ -13,3 +13,9 @@
 #
 # Test output
 # input sides of 5 and 7 should give hypotenuse of 8.60232526704
+
+a= float(input("what is the length of first side"))
+
+b= float(input("what is the length of the second side"))
+
+c = print(2**2 + b**2)
